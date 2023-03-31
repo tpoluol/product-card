@@ -1,6 +1,6 @@
-import mobileImage from '../images/image-product-mobile.jpg';
-import desktopImage from '../images/image-product-desktop.jpg';
-import cart from '../images/icon-cart.svg';
+import mobileImage from '/image-product-mobile.jpg';
+import desktopImage from '/image-product-desktop.jpg';
+import cart from '/icon-cart.svg';
 function App() {
   return (
     <main className="flex w-screen min-h-screen bg-Cream justify-center items-center">
